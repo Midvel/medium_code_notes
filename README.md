@@ -7,4 +7,8 @@ Example of code and models built for Medium articles
 
 2. <b>C++ Container with Conditionally Protected Access</b>
 * [Link to the code](container_with_condition/interval_container.cpp)
+* [Article on the Medium](https://medium.com/swlh/c-container-with-conditionally-protected-access-9d249393183e?source=friends_link&sk=4707f0ee62191b620284c7d6fb90b20f)
+
+3. <b>Construct flexible and scalable interface for C++ container</b>
+* [Link to the code](variadic_interface/variadic_storage.cpp)
 * [Article on the Medium]()
