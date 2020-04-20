@@ -12,3 +12,7 @@ Example of code and models built for Medium articles
 3. <b>Construct flexible and scalable interface for C++ container</b>
 * [Link to the code](variadic_interface/variadic_storage.cpp)
 * [Article on the Medium](https://medium.com/swlh/construct-variadic-flexible-and-scalable-interface-for-c-container-f1c5190afdd1?source=friends_link&sk=00810f34832b5ff39fd65a2b196318d6)
+
+4. <b>Modern C++ logging with plog and fmt::format</b>
+* [Link to the code](https://github.com/Midvel/ModernLogging)
+* [Article on the Medium]()
