@@ -15,4 +15,4 @@ Example of code and models built for Medium articles
 
 4. <b>Modern C++ logging with plog and fmt::format</b>
 * [Link to the code](https://github.com/Midvel/ModernLogging)
-* [Article on the Medium]()
+* [Article on the Medium](https://medium.com/@midvel.corp/modern-c-logging-with-plog-and-fmt-format-1397ab4e2350?source=friends_link&sk=fecc457f57e231fd2049d9b2ac4421b8)
