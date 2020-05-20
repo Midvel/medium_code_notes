@@ -1,5 +1,6 @@
 # medium_code_notes
-Example of code and models built for Medium articles
+Example of code and models built for Medium articles<br>
+See here code and links for [Data Science and AI articles](https://github.com/Midvel/medium_jupyter_notes)
 
 1. <b>Functional, minimalistic and useful C++ map-like container</b>
 * [Link to the code](accumulator_map/accumulator_map.cpp)
